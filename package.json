@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-package-orion:toggle"
   },
-  "repository": "https://github.com/atom/test-package-orion",
+  "repository": "https://github.com/tangina3422/test-package-orion",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
